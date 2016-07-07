@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Primeraprueba.iml" filepath="$PROJECT_DIR$/Primeraprueba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primeraprueba-grailsPlugins.iml" filepath="$PROJECT_DIR$/Primeraprueba-grailsPlugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primeraprueba-grailsPlugins.iml" filepath="$PROJECT_DIR$/primeraprueba-grailsPlugins.iml" />
+    </modules>
+  </component>
+</project>

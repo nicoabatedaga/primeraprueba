@@ -94,5 +94,6 @@
       </library>
     </orderEntry>
     <orderEntry type="module" module-name="primeraprueba-grailsPlugins" />
+    <orderEntry type="module" module-name="Primeraprueba-grailsPlugins" />
   </component>
 </module>
